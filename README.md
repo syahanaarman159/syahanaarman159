@@ -4,7 +4,7 @@ Who always excited to learn new things! ^-^
 ## 👩‍💻 Who am I?
 📚 Multimedia Engineering Student @ Batam State Polytechnic
 
-🎓 Currently learning Artificial Intelligence @ Infinite Learning
+🎓 Artificial Intelligence Student @ Infinite Learning
 
 
 
