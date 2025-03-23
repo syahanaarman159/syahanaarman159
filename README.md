@@ -9,7 +9,7 @@ Who always excited to learn new things! ^-^
 
 
 ## 🛠️ Tech & Tools I Use
-   Programming: Python, PyTorch, Kaggle
+   Programming AI: Python, PyTorch, Kaggle
    
    Design & Editing: Adobe Illustrator, CorelDraw, Figma, Canva, Capcut
    
