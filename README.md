@@ -1,8 +1,8 @@
 ## Hello👋 I'm Syahana 
 I'm always excited to learn new things! ^-^
 
-🎓 Currently learning Artificial Intelligence at Infinite Learning
-📚 Multimedia Engineering Student at Batam State Polytechnic
+-🎓 Currently learning Artificial Intelligence at Infinite Learning
+-📚 Multimedia Engineering Student at Batam State Polytechnic
 
 -🛠️ Tech & Tools I Use
    -Programming: Python, PyTorch, Kaggle
