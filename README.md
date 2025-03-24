@@ -1,10 +1,10 @@
 ### Hi there, I'm Syahana! 👋
 
-A passionate Artificial Intelligence from Indonesia, i'm someone who always excited to learn new things! ^-^
-![amu](https://github.com/user-attachments/assets/7023cb4c-ea90-4529-bdb7-80bd2ded9ed6)
+A passionate Artificial Intelligence from Batam, Indonesia. i'm someone who always excited to learn new things! ^-^
+![amu](https://github.com/user-attachments/assets/572e924f-93f8-4281-8c4a-a7c04463bb0d)
 
-
----
+ 🤖 Currently learning AI Development Program @ Infinite Learning Indonesia &
+ 🎓 Multimedia student @ Batam State Polytechnic
 
 ### 🚀 Tech Stack & Skills
 
@@ -14,16 +14,14 @@ A passionate Artificial Intelligence from Indonesia, i'm someone who always exci
 
 ---
 
-### 🌎 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syahanaarman/)
-
----
-
 ### ✨ Fun Facts About Me
 🎨 Besides coding, I also enjoy **designing graphics & editing videos**!
 
 ---
+
+### 🌎 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syahanaarman/)
 
 ![Banner](https://your-image-url.com/banner.gif)
 
