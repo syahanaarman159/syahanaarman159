@@ -10,8 +10,7 @@ A passionate Artificial Intelligence from Batam, Indonesia.
 
 Many people say that I resemble Amu from the Indonesian webtoon Wee, and I feel the same way. Amu is a character who is cheerful, full of energy, and always tries to see the positive side of everything. She has a unique personality playful, a little mischievous, but also sincere and caring toward those around her.
 
-Like Amu, I love exploring new things, expressing myself through creativity, and embracing new challenges. The digital and tech world is where I thrive, but I also enjoy art and design as a way to bring my imagination to life.
-
+Like Amu, I love exploring new things, being creative, and taking on challenges. The digital and tech world is where I thrive, but I also enjoy design as a way to bring my creative side.
 ### 🚀 Tech Stack & Skills
 
 - **Programming Languages:** Python
