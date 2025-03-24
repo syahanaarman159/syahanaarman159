@@ -1,16 +1,30 @@
-## 👋 Hello I'm Syahana 
-Who always excited to learn new things! ^-^
+### Hi there, I'm Syahana! 👋
 
-## 👩‍💻 Who am I?
-📚 Multimedia Engineering Student @ Batam State Polytechnic
-
-🎓 Artificial Intelligence Student @ Infinite Learning
+A passionate Artificial Intelligence from Indonesia, i'm someone who always excited to learn new things! ^-^
+![amu](https://github.com/user-attachments/assets/7023cb4c-ea90-4529-bdb7-80bd2ded9ed6)
 
 
+---
 
-## 🛠️ Tech & Tools I Use
-   Programming AI: Python, PyTorch, Kaggle
-   
-   Design & Editing: Adobe Illustrator, CorelDraw, Figma, Canva, Capcut
-   
-   Web Development: WordPress
+### 🚀 Tech Stack & Skills
+
+- **Programming Languages:** Python
+- **Web Development:** HTML, WordPress
+- **Tools & Platforms:** Git, Figma, PyTorch
+
+---
+
+### 🌎 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syahanaarman/)
+
+---
+
+### ✨ Fun Facts About Me
+🎨 Besides coding, I also enjoy **designing graphics & editing videos**!
+
+---
+
+![Banner](https://your-image-url.com/banner.gif)
+
+*Let's build something amazing together! 🚀*
